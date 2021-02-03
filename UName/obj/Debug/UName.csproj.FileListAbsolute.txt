@@ -1,0 +1,10 @@
+C:\Users\b\source\repos\UName\UName\bin\Debug\UName.exe.config
+C:\Users\b\source\repos\UName\UName\bin\Debug\UName.exe
+C:\Users\b\source\repos\UName\UName\bin\Debug\UName.pdb
+C:\Users\b\source\repos\UName\UName\obj\Debug\UName.csprojAssemblyReference.cache
+C:\Users\b\source\repos\UName\UName\obj\Debug\UName.Properties.Resources.resources
+C:\Users\b\source\repos\UName\UName\obj\Debug\UName.csproj.GenerateResource.cache
+C:\Users\b\source\repos\UName\UName\obj\Debug\UName.csproj.CoreCompileInputs.cache
+C:\Users\b\source\repos\UName\UName\obj\Debug\UName.exe
+C:\Users\b\source\repos\UName\UName\obj\Debug\UName.pdb
+C:\Users\b\source\repos\UName\UName\obj\Debug\UName.frmMeinName.resources
